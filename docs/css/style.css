@@ -1,0 +1,65 @@
+b{
+    color: #888888;
+}
+ #img{    
+     width: 270px;
+    height: 170px;
+    }
+#tar{
+    height: 400px;
+ }
+#fond{
+    height: 550px;
+}
+#vio{
+    color:#00005c;
+}
+#fon{
+    background:#00005c;
+}
+#col{
+    background:#00005c;
+}
+#cen{
+    text-align: center;
+}
+#label{
+    margin-left: 325px;    
+    margin-top: -60px;
+}
+#cold{
+    background:#00005c;
+    margin-top: -40px;
+    position: absolute;
+    right: -200px;
+}
+#izq{
+    float: right;
+    margin-right: 560px;
+    margin-top: -60px;
+    
+}
+#izqq{
+    float: left;
+    padding-left: 295px;
+}
+.blanco{
+    background: white;
+}
+#an{
+    align-self: flex-end;
+}
+.negro{
+    color:black;
+}
+.aumento{
+    width: 100px; height: 100px;
+}
+.distancia{
+  width: 80%;
+}
+.fin{
+    width: 65%;
+    margin-right: auto;
+    margin-left: auto;
+}
